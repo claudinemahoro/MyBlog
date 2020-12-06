@@ -9,6 +9,7 @@ Claudine MAHORO
  * Flask
  * Virtual environment
  * and other modules found in requirements.txt
+
 # Features
  * Visitors can view different posts and comment
  * Users can view random quotes
@@ -16,13 +17,15 @@ Claudine MAHORO
  * Writers can add a post
  * Writers can update or modify their post
  * Writers can delete their post
-# Link to Heroku
 
+# Link to Heroku
+https://mapeaceblog.herokuapp.com/
 
 # Technologies Used
 * Python Version 3.6
 * Flask Framework
 * Html and CSS
 * Bootstrap
+
 # License
 MIT LICENSE
